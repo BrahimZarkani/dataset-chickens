@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Egg Layer",
+    "description": "Chicken breeds mainly kept for egg production."
+  },
+  {
+    "id": 2,
+    "name": "Dual Purpose",
+    "description": "Chicken breeds suitable for both egg and meat production."
+  },
+  {
+    "id": 3,
+    "name": "Ornamental",
+    "description": "Chicken breeds mainly kept for their appearance."
+  }
+]

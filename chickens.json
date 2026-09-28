@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Barnevelder",
+    "countryOfOrigin": "Netherlands",
+    "henWeightKg": 2.75,
+    "roosterWeightKg": 3.5,
+    "eggsPerYear": 190,
+    "eggColor": "Brown",
+    "temperament": "Friendly",
+    "winterHardy": true,
+    "purposes": ["Eggs", "Meat"],
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/barnevelder.jpg",
+    "categoryId": {
+      "id": 2,
+      "name": "Dual Purpose",
+      "description": "Chicken breeds suitable for both egg and meat production."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Brahma",
+    "countryOfOrigin": "Asia",
+    "henWeightKg": 4.0,
+    "roosterWeightKg": 5.5,
+    "eggsPerYear": 225,
+    "eggColor": "Brown",
+    "temperament": "Calm and friendly",
+    "winterHardy": true,
+    "purposes": ["Eggs", "Meat", "Ornamental"],
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/brahma.jpg",
+    "categoryId": {
+      "id": 2,
+      "name": "Dual Purpose",
+      "description": "Chicken breeds suitable for both egg and meat production."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Wyandotte",
+    "countryOfOrigin": "United States",
+    "henWeightKg": 3.0,
+    "roosterWeightKg": 3.6,
+    "eggsPerYear": 200,
+    "eggColor": "Brown",
+    "temperament": "Friendly",
+    "winterHardy": true,
+    "purposes": ["Eggs", "Meat"],
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/wyandotte.jpg",
+    "categoryId": {
+      "id": 2,
+      "name": "Dual Purpose",
+      "description": "Chicken breeds suitable for both egg and meat production."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Leghorn",
+    "countryOfOrigin": "Italy",
+    "henWeightKg": 2.0,
+    "roosterWeightKg": 2.7,
+    "eggsPerYear": 300,
+    "eggColor": "White",
+    "temperament": "Active",
+    "winterHardy": false,
+    "purposes": ["Eggs"],
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/leghorn.jpg",
+    "categoryId": {
+      "id": 1,
+      "name": "Egg Layer",
+      "description": "Chicken breeds mainly kept for egg production."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Australorp",
+    "countryOfOrigin": "Australia",
+    "henWeightKg": 2.5,
+    "roosterWeightKg": 3.5,
+    "eggsPerYear": 300,
+    "eggColor": "Light brown",
+    "temperament": "Calm",
+    "winterHardy": true,
+    "purposes": ["Eggs", "Meat"],
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/australorp.jpg",
+    "categoryId": {
+      "id": 2,
+      "name": "Dual Purpose",
+      "description": "Chicken breeds suitable for both egg and meat production."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Orpington",
+    "countryOfOrigin": "England",
+    "henWeightKg": 3.0,
+    "roosterWeightKg": 4.0,
+    "eggsPerYear": 250,
+    "eggColor": "Light brown",
+    "temperament": "Calm and friendly",
+    "winterHardy": true,
+    "purposes": ["Eggs", "Meat", "Ornamental"],
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/orpington.jpg",
+    "categoryId": {
+      "id": 2,
+      "name": "Dual Purpose",
+      "description": "Chicken breeds suitable for both egg and meat production."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Marans",
+    "countryOfOrigin": "France",
+    "henWeightKg": 2.5,
+    "roosterWeightKg": 3.5,
+    "eggsPerYear": 200,
+    "eggColor": "Dark brown",
+    "temperament": "Calm",
+    "winterHardy": true,
+    "purposes": ["Eggs", "Meat"],
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/marans.jpg",
+    "categoryId": {
+      "id": 2,
+      "name": "Dual Purpose",
+      "description": "Chicken breeds suitable for both egg and meat production."
+    }
+  },
+  {
+    "id": 8,
+    "name": "Sussex",
+    "countryOfOrigin": "England",
+    "henWeightKg": 3.0,
+    "roosterWeightKg": 4.0,
+    "eggsPerYear": 250,
+    "eggColor": "Light brown",
+    "temperament": "Friendly",
+    "winterHardy": true,
+    "purposes": ["Eggs", "Meat"],
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/sussex.jpg",
+    "categoryId": {
+      "id": 2,
+      "name": "Dual Purpose",
+      "description": "Chicken breeds suitable for both egg and meat production."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Rhode Island Red",
+    "countryOfOrigin": "United States",
+    "henWeightKg": 2.9,
+    "roosterWeightKg": 3.9,
+    "eggsPerYear": 250,
+    "eggColor": "Brown",
+    "temperament": "Active",
+    "winterHardy": true,
+    "purposes": ["Eggs", "Meat"],
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/rhode-island-red.jpg",
+    "categoryId": {
+      "id": 2,
+      "name": "Dual Purpose",
+      "description": "Chicken breeds suitable for both egg and meat production."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Plymouth Rock",
+    "countryOfOrigin": "United States",
+    "henWeightKg": 3.0,
+    "roosterWeightKg": 3.8,
+    "eggsPerYear": 200,
+    "eggColor": "Brown",
+    "temperament": "Friendly",
+    "winterHardy": true,
+    "purposes": ["Eggs", "Meat"],
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/plymouth-rock.jpg",
+    "categoryId": {
+      "id": 2,
+      "name": "Dual Purpose",
+      "description": "Chicken breeds suitable for both egg and meat production."
+    }
+  }
+]
