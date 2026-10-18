@@ -1,182 +1,152 @@
 [
   {
     "id": 1,
-    "name": "Barnevelder",
-    "countryOfOrigin": "Netherlands",
-    "henWeightKg": 2.75,
-    "roosterWeightKg": 3.5,
-    "eggsPerYear": 190,
-    "eggColor": "Brown",
-    "temperament": "Friendly",
-    "winterHardy": true,
-    "purposes": ["Eggs", "Meat"],
-    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/barnevelder.jpg",
-    "categoryId": {
-      "id": 2,
-      "name": "Dual Purpose",
-      "description": "Chicken breeds suitable for both egg and meat production."
+    "name": "Australorp",
+    "description": "The Australorp is a large Australian chicken breed with excellent egg-laying skills. They're docile and friendly, which makes them great pet chickens!",
+    "lifeExpectancy": 7,
+    "beginnerFriendly": true,
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/australorp.png",
+    "eggColor": "light brown",
+    "purposes": ["eggs", "meat"],
+    "countryOfOrigin": {
+      "id": 1,
+      "name": "Australia",
+      "description": "Australia is famous for its excellent egg production and contributions to poultry breeding."
     }
   },
   {
     "id": 2,
-    "name": "Brahma",
-    "countryOfOrigin": "Asia",
-    "henWeightKg": 4.0,
-    "roosterWeightKg": 5.5,
-    "eggsPerYear": 225,
-    "eggColor": "Brown",
-    "temperament": "Calm and friendly",
-    "winterHardy": true,
-    "purposes": ["Eggs", "Meat", "Ornamental"],
-    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/brahma.jpg",
-    "categoryId": {
+    "name": "Sultan",
+    "description": "Sultan chickens are as royal and dignified as their name suggests. This is an old breed too, and it has quite a storied history.",
+    "lifeExpectancy": 7,
+    "beginnerFriendly": false,
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/sultan.png",
+    "eggColor": "white",
+    "purposes": ["ornamental"],
+    "countryOfOrigin": {
       "id": 2,
-      "name": "Dual Purpose",
-      "description": "Chicken breeds suitable for both egg and meat production."
+      "name": "United Kingdom",
+      "description": "The United Kingdom is known for its long history of poultry breeding and development of traditional chicken breeds."
     }
   },
   {
     "id": 3,
-    "name": "Wyandotte",
-    "countryOfOrigin": "United States",
-    "henWeightKg": 3.0,
-    "roosterWeightKg": 3.6,
-    "eggsPerYear": 200,
-    "eggColor": "Brown",
-    "temperament": "Friendly",
-    "winterHardy": true,
-    "purposes": ["Eggs", "Meat"],
-    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/wyandotte.jpg",
-    "categoryId": {
+    "name": "Orpington",
+    "description": "Orpington chickens are large, fluffy birds known for their calm and friendly personalities. They lay plenty of light brown eggs and are excellent backyard chickens for beginners.",
+    "lifeExpectancy": 8,
+    "beginnerFriendly": true,
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/orpington.png",
+    "eggColor": "light brown",
+    "purposes": ["eggs", "meat"],
+    "countryOfOrigin": {
       "id": 2,
-      "name": "Dual Purpose",
-      "description": "Chicken breeds suitable for both egg and meat production."
+      "name": "United Kingdom",
+      "description": "The United Kingdom is known for its long history of poultry breeding and development of traditional chicken breeds."
     }
   },
   {
     "id": 4,
-    "name": "Leghorn",
-    "countryOfOrigin": "Italy",
-    "henWeightKg": 2.0,
-    "roosterWeightKg": 2.7,
-    "eggsPerYear": 300,
-    "eggColor": "White",
-    "temperament": "Active",
-    "winterHardy": false,
-    "purposes": ["Eggs"],
-    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/leghorn.jpg",
-    "categoryId": {
-      "id": 1,
-      "name": "Egg Layer",
-      "description": "Chicken breeds mainly kept for egg production."
+    "name": "Rhode Island Red",
+    "description": "Rhode Island Reds are hardy, productive chickens with rich reddish-brown feathers. They are excellent egg layers and can also be raised for meat.",
+    "lifeExpectancy": 8,
+    "beginnerFriendly": true,
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/rhode-island-red.png",
+    "eggColor": "brown",
+    "purposes": ["eggs", "meat"],
+    "countryOfOrigin": {
+      "id": 3,
+      "name": "United States",
+      "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat."
     }
   },
   {
     "id": 5,
-    "name": "Australorp",
-    "countryOfOrigin": "Australia",
-    "henWeightKg": 2.5,
-    "roosterWeightKg": 3.5,
-    "eggsPerYear": 300,
-    "eggColor": "Light brown",
-    "temperament": "Calm",
-    "winterHardy": true,
-    "purposes": ["Eggs", "Meat"],
-    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/australorp.jpg",
-    "categoryId": {
-      "id": 2,
-      "name": "Dual Purpose",
-      "description": "Chicken breeds suitable for both egg and meat production."
+    "name": "Plymouth Rock",
+    "description": "Plymouth Rock chickens are friendly, sturdy birds with distinctive feather patterns. They are reliable layers and make good dual-purpose chickens for family farms.",
+    "lifeExpectancy": 8,
+    "beginnerFriendly": true,
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/plymouth-rock.png",
+    "eggColor": "brown",
+    "purposes": ["eggs", "meat"],
+    "countryOfOrigin": {
+      "id": 3,
+      "name": "United States",
+      "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat."
     }
   },
   {
     "id": 6,
-    "name": "Orpington",
-    "countryOfOrigin": "England",
-    "henWeightKg": 3.0,
-    "roosterWeightKg": 4.0,
-    "eggsPerYear": 250,
-    "eggColor": "Light brown",
-    "temperament": "Calm and friendly",
-    "winterHardy": true,
-    "purposes": ["Eggs", "Meat", "Ornamental"],
-    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/orpington.jpg",
-    "categoryId": {
-      "id": 2,
-      "name": "Dual Purpose",
-      "description": "Chicken breeds suitable for both egg and meat production."
+    "name": "Wyandotte",
+    "description": "Wyandottes are attractive, rounded chickens known for their beautiful feather patterns and cold hardiness. They lay brown eggs and adapt well to backyard flocks.",
+    "lifeExpectancy": 6,
+    "beginnerFriendly": true,
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/wyandotte.png",
+    "eggColor": "brown",
+    "purposes": ["eggs", "meat", "ornamental"],
+    "countryOfOrigin": {
+      "id": 3,
+      "name": "United States",
+      "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat."
     }
   },
   {
     "id": 7,
-    "name": "Marans",
-    "countryOfOrigin": "France",
-    "henWeightKg": 2.5,
-    "roosterWeightKg": 3.5,
-    "eggsPerYear": 200,
-    "eggColor": "Dark brown",
-    "temperament": "Calm",
-    "winterHardy": true,
-    "purposes": ["Eggs", "Meat"],
-    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/marans.jpg",
-    "categoryId": {
-      "id": 2,
-      "name": "Dual Purpose",
-      "description": "Chicken breeds suitable for both egg and meat production."
+    "name": "Cochin",
+    "description": "Cochin chickens are large, fluffy birds with heavily feathered legs and a gentle temperament. They are popular ornamental chickens but require extra care to keep their feathers clean and dry.",
+    "lifeExpectancy": 8,
+    "beginnerFriendly": true,
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/cochin.png",
+    "eggColor": "brown",
+    "purposes": ["eggs", "meat", "ornamental"],
+    "countryOfOrigin": {
+      "id": 4,
+      "name": "China",
+      "description": "China is known for its long history of chicken keeping and distinctive ornamental poultry."
     }
   },
   {
     "id": 8,
-    "name": "Sussex",
-    "countryOfOrigin": "England",
-    "henWeightKg": 3.0,
-    "roosterWeightKg": 4.0,
-    "eggsPerYear": 250,
-    "eggColor": "Light brown",
-    "temperament": "Friendly",
-    "winterHardy": true,
-    "purposes": ["Eggs", "Meat"],
-    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/sussex.jpg",
-    "categoryId": {
-      "id": 2,
-      "name": "Dual Purpose",
-      "description": "Chicken breeds suitable for both egg and meat production."
+    "name": "Silkie",
+    "description": "Silkies are small, fluffy chickens with unusual soft feathers, feathered feet, and gentle personalities. They are popular pets and ornamental birds, although they lay relatively few eggs.",
+    "lifeExpectancy": 8,
+    "beginnerFriendly": true,
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/silkie.png",
+    "eggColor": "cream",
+    "purposes": ["eggs", "ornamental"],
+    "countryOfOrigin": {
+      "id": 4,
+      "name": "China",
+      "description": "China is known for its long history of chicken keeping and distinctive ornamental poultry."
     }
   },
   {
     "id": 9,
-    "name": "Rhode Island Red",
-    "countryOfOrigin": "United States",
-    "henWeightKg": 2.9,
-    "roosterWeightKg": 3.9,
-    "eggsPerYear": 250,
-    "eggColor": "Brown",
-    "temperament": "Active",
-    "winterHardy": true,
-    "purposes": ["Eggs", "Meat"],
-    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/rhode-island-red.jpg",
-    "categoryId": {
-      "id": 2,
-      "name": "Dual Purpose",
-      "description": "Chicken breeds suitable for both egg and meat production."
+    "name": "Brahma",
+    "description": "Brahmas are large, feather-legged chickens known for their gentle temperament and impressive size. They are cold-hardy and can be raised for eggs, meat, or ornamental purposes.",
+    "lifeExpectancy": 8,
+    "beginnerFriendly": true,
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/brahma.png",
+    "eggColor": "brown",
+    "purposes": ["eggs", "meat", "ornamental"],
+    "countryOfOrigin": {
+      "id": 3,
+      "name": "United States",
+      "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat."
     }
   },
   {
     "id": 10,
-    "name": "Plymouth Rock",
-    "countryOfOrigin": "United States",
-    "henWeightKg": 3.0,
-    "roosterWeightKg": 3.8,
-    "eggsPerYear": 200,
-    "eggColor": "Brown",
-    "temperament": "Friendly",
-    "winterHardy": true,
-    "purposes": ["Eggs", "Meat"],
-    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/plymouth-rock.jpg",
-    "categoryId": {
+    "name": "Sussex",
+    "description": "Sussex chickens are curious, docile birds that enjoy foraging and interacting with their keepers. They are dependable layers of light brown eggs and are suitable for both eggs and meat.",
+    "lifeExpectancy": 8,
+    "beginnerFriendly": true,
+    "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/sussex.png",
+    "eggColor": "light brown",
+    "purposes": ["eggs", "meat"],
+    "countryOfOrigin": {
       "id": 2,
-      "name": "Dual Purpose",
-      "description": "Chicken breeds suitable for both egg and meat production."
+      "name": "United Kingdom",
+      "description": "The United Kingdom is known for its long history of poultry breeding and development of traditional chicken breeds."
     }
   }
 ]
