@@ -2,21 +2,25 @@
   {
     "id": 1,
     "name": "Australia",
-    "description": "Australia is famous for its excellent egg production and contributions to poultry breeding."
+    "description": "Australia is famous for its excellent egg production and contributions to poultry breeding.",
+    "images": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/australia.png"
   },
   {
     "id": 2,
     "name": "United Kingdom",
-    "description": "The United Kingdom is known for its long history of poultry breeding and development of traditional chicken breeds."
+    "description": "The United Kingdom is known for its long history of poultry breeding and development of traditional chicken breeds.",
+    "images": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/united-kingdom.png"
   },
   {
     "id": 3,
     "name": "United States",
-    "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat."
+    "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat.",
+    "images": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/united-states.png"
   },
   {
     "id": 4,
     "name": "China",
-    "description": "China is known for its long history of chicken keeping and distinctive ornamental poultry."
+    "description": "China is known for its long history of chicken keeping and distinctive ornamental poultry.",
+    "images": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/china.png"
   }
 ]
