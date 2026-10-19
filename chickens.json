@@ -11,7 +11,8 @@
     "countryOfOrigin": {
       "id": 1,
       "name": "Australia",
-      "description": "Australia is famous for its excellent egg production and contributions to poultry breeding."
+      "description": "Australia is famous for its excellent egg production and contributions to poultry breeding.",
+      "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/australia.png"
     }
   },
   {
@@ -26,7 +27,8 @@
     "countryOfOrigin": {
       "id": 2,
       "name": "United Kingdom",
-      "description": "The United Kingdom is known for its long history of poultry breeding and development of traditional chicken breeds."
+      "description": "The United Kingdom is known for its long history of poultry breeding and development of traditional chicken breeds.",
+      "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/united-kingdom.png"
     }
   },
   {
@@ -41,7 +43,8 @@
     "countryOfOrigin": {
       "id": 2,
       "name": "United Kingdom",
-      "description": "The United Kingdom is known for its long history of poultry breeding and development of traditional chicken breeds."
+      "description": "The United Kingdom is known for its long history of poultry breeding and development of traditional chicken breeds.",
+      "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/united-kingdom.png"
     }
   },
   {
@@ -56,7 +59,8 @@
     "countryOfOrigin": {
       "id": 3,
       "name": "United States",
-      "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat."
+      "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat.",
+      "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/united-states.png"
     }
   },
   {
@@ -71,7 +75,8 @@
     "countryOfOrigin": {
       "id": 3,
       "name": "United States",
-      "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat."
+      "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat.",
+      "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/united-states.png"
     }
   },
   {
@@ -86,7 +91,8 @@
     "countryOfOrigin": {
       "id": 3,
       "name": "United States",
-      "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat."
+      "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat.",
+      "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/united-states.png"
     }
   },
   {
@@ -101,7 +107,8 @@
     "countryOfOrigin": {
       "id": 4,
       "name": "China",
-      "description": "China is known for its long history of chicken keeping and distinctive ornamental poultry."
+      "description": "China is known for its long history of chicken keeping and distinctive ornamental poultry.",
+      "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/china.png"
     }
   },
   {
@@ -116,7 +123,8 @@
     "countryOfOrigin": {
       "id": 4,
       "name": "China",
-      "description": "China is known for its long history of chicken keeping and distinctive ornamental poultry."
+      "description": "China is known for its long history of chicken keeping and distinctive ornamental poultry.",
+      "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/china.png"
     }
   },
   {
@@ -131,7 +139,8 @@
     "countryOfOrigin": {
       "id": 3,
       "name": "United States",
-      "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat."
+      "description": "The United States is known for developing productive dual-purpose chickens suitable for both egg production and meat.",
+      "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/united-states.png"
     }
   },
   {
@@ -146,7 +155,8 @@
     "countryOfOrigin": {
       "id": 2,
       "name": "United Kingdom",
-      "description": "The United Kingdom is known for its long history of poultry breeding and development of traditional chicken breeds."
+      "description": "The United Kingdom is known for its long history of poultry breeding and development of traditional chicken breeds.",
+      "image": "https://raw.githubusercontent.com/BrahimZarkani/dataset-chickens/main/images/united-kingdom.png"
     }
   }
 ]
